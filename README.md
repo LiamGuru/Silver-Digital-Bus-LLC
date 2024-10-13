@@ -43,7 +43,7 @@ S3_END_POINT=
 <br/>`npm run electron-pack`
 
 ## Usage
-D:\Working\FigmaToReact\SilverDigitalBusLLC\preview.mp4
+
 
 ## Contributing
 LiamLucas
