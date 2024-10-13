@@ -1,4 +1,4 @@
-# OMEGA Focus
+# Silver Digital Bus LLC
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,10 +9,14 @@
 - [License](#license)
 
 ## Introduction
-
+### Silver Digital Bus LLC is web app for Software developers.
 
 ## Features
-
+Frontend Smart Fresh design
+<br/>Responsive
+<br/>Dark/Light Theme
+<br/>Wonderful Animation Effect
+<br/>Tech(React ts, Tailwind css)
 
 ## Installation and Build
 - Install node_modules
@@ -42,6 +46,7 @@ S3_END_POINT=
 
 
 ## Contributing
-
+LiamLucas
 
 ## License
+### MIT
